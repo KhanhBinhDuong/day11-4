@@ -1,2 +1,3 @@
 This is a pen
 I have an apple
+pull: Lấy nội dung của remote repository
